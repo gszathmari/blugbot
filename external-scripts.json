@@ -16,5 +16,8 @@
   "hubot-xkcd",
   "hubot-leaderboard",
   "hubot-slack-whitelist-middleware",
+  "hubot-seen",
+  "hubot-wolfram",
+  "hubot-bofh",
   "hubot-script-ical"
 ]
