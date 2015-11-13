@@ -15,5 +15,6 @@
   "hubot-strawpoll",
   "hubot-xkcd",
   "hubot-leaderboard",
+  "hubot-slack-whitelist-middleware",
   "hubot-script-ical"
 ]
