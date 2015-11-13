@@ -10,5 +10,11 @@
   "hubot-shipit",
   "hubot-suggest",
   "hubot-dogeme",
+  "hubot-tell",
+  "hubot-wikipedia",
+  "hubot-strawpoll",
+  "hubot-xkcd",
+  "hubot-leaderboard",
+  "hubot-commitstrip",
   "hubot-script-ical"
 ]
