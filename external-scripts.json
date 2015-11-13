@@ -15,6 +15,5 @@
   "hubot-strawpoll",
   "hubot-xkcd",
   "hubot-leaderboard",
-  "hubot-commitstrip",
   "hubot-script-ical"
 ]

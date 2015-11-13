@@ -6,7 +6,6 @@
   "description": "A simple helpful robot",
   "dependencies": {
     "hubot": "^2.16.0",
-    "hubot-commitstrip": "^1.0.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-dogeme": "^1.0.0",
     "hubot-google-images": "^0.2.3",
