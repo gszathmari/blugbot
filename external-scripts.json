@@ -19,5 +19,6 @@
   "hubot-seen",
   "hubot-wolfram",
   "hubot-bofh",
+  "hubot-ical-topic-bot",
   "hubot-script-ical"
 ]
