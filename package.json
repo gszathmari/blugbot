@@ -7,6 +7,8 @@
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-bofh": "^1.0.0",
+    "hubot-business-cat": "^1.3.0",
+    "hubot-conspire": "^1.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-dogeme": "^1.0.0",
     "hubot-google-images": "^0.2.3",
@@ -29,6 +31,8 @@
     "hubot-strawpoll": "^1.0.1",
     "hubot-suggest": "0.0.1",
     "hubot-tell": "^1.2.4",
+    "hubot-urban-dictionary": "^1.0.5",
+    "hubot-voting": "^1.0.0",
     "hubot-wikipedia": "0.0.2",
     "hubot-wolfram": "^1.0.8",
     "hubot-xkcd": "0.0.3"
