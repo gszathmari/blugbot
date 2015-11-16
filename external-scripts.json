@@ -20,6 +20,7 @@
   "hubot-wolfram",
   "hubot-bofh",
   "hubot-ical-topic-bot",
+  "hubot-ical-notifier",
   "hubot-urban-dictionary",
   "hubot-conspire",
   "hubot-business-cat",
