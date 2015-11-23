@@ -15,7 +15,7 @@
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.2",
     "hubot-heroku-keepalive": "^1.0.0",
-    "hubot-ical-notifier": "0.0.3",
+    "hubot-ical-notifier": "gszathmari/hubot-ical-notifier",
     "hubot-ical-topic-bot": "^1.1.5",
     "hubot-leaderboard": "^0.5.0",
     "hubot-maps": "0.0.2",
